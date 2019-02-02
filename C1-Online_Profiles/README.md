@@ -13,6 +13,6 @@ https://github.com/TheDommer
 https://www.linkedin.com/in/dominick-dufner-80b292140/
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
+Uploaded into this repository seperately.  
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository talk with your Mentor about an alternate way to submit this assignment.
